@@ -1,0 +1,16 @@
+{
+  "botID": "6C3FRpLXRHW7NaeRCJnWlw",
+  "accesstoken": "Gr7voVgZrQvSOsVWvcg4rJpOX7TblrQpQCW-OVzPXVA",
+  "verificationtoken": "KXKbvcotxBKRFe8eC3fxPFuHR8z24F-ER_dnkoDnqvA",
+  "botservice": "botplatform.maaprcs.com",
+  "apipath": "/bot/v1/",
+  "clientconfig": {
+    "scheme": "https",
+    "connpoolsize": 10
+  },
+  "serverconfig": {
+    "scheme": "http",
+    "port": 8098,
+    "webhook": "/bot/message"
+  }
+}
