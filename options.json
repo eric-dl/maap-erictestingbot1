@@ -10,7 +10,6 @@
   },
   "serverconfig": {
     "scheme": "http",
-    "port": 8098,
     "webhook": "/bot/message"
   }
 }
